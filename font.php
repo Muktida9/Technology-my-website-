@@ -4,14 +4,22 @@
     <style>
       @font-face{
         font-family: "MyFont1";
-        src: url("baozi.ttf");
+        src: url("MiPancake.ttf");
       }
-      body{
+      @font-face{
+        font-family: "MyFont2";
+        src: url("Doughnut.ttf");
+      }
+      #font1{
         font-family: "MyFont1";
+      }
+      #font2{
+        font-family: "MyFont2";
       }
     </style>
   </head>
   <body>
-    <h1>ฟอนต์ของฉัน</h1>
+    <h1 id="font1">นางสาวมุกธิดา จันที เลขที่ 8 ห้อง ม.4/12 เลขประจำตัว 56660</h1>
+    <h1 id="font2">นางสาวมุกธิดา จันที เลขที่ 8 ห้อง ม.4/12 เลขประจำตัว 56660</h1>
   </body>
 </html>
