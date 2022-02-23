@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: "MyFont2";
-        src: url("MNNTuaklom.ttf");
+        src: url("MNNTuaklom3.ttf");
       }
       #font1{
         font-family: "MyFont1";
